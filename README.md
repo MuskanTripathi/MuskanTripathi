@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on official website of [OffenOffice](https://www.offenoffice.com/)
 
-- 📫 How to reach me **tripathimskn@gmail.com**
+- 📫 Reach me at **tripathimskn@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing](https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing)
 
