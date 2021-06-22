@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/MuskanTripathi/MuskanTripathi/blob/main/github img.jpg)
+![Design and Development](https://github.com/MuskanTripathi/MuskanTripathi/blob/main/githubimg.jpg)
 <img align='right' src="https://media2.giphy.com/media/hTUDzx90zCDBIFBYyW/200w.gif?cid=82a1493b4n0e7rjj62kk1ktjrhvwcqjswxpc084rp3kgukeo&rid=200w.gif&ct=g" width="230">
 
 <h1 align="center">Hello World! 👋, I'm Muskan Tripathi</h1>
