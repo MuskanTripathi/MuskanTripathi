@@ -5,8 +5,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskantripathi&label=Profile%20views&color=0e75b6&style=flat" alt="muskantripathi" /> </p>
-
-- 🔭 I’m currently working on official website of [OffenOffice](https://www.offenoffice.com/)
+<!-- 
+- 🔭 I’m currently working on official website of [OffenOffice](https://www.offenoffice.com/) -->
 
 - 📫 Reach me at **tripathimskn@gmail.com**
 
