@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **tripathimskn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing](https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing](https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing)](https://drive.google.com/file/d/1YaML9Nd1uz3lp4PhbBZYq8Bkf48NhjHz/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
