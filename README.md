@@ -10,8 +10,7 @@
 
 - 📫 Reach me at **tripathimskn@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing](https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing)](https://drive.google.com/file/d/1YaML9Nd1uz3lp4PhbBZYq8Bkf48NhjHz/view)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing](https://drive.google.com/file/d/1FQLYjcsHvWxtmsea7WLpTysAiKXyCpAU/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/muskantripathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/muskantripathi" height="30" width="40" /></a>
